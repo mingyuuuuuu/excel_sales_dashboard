@@ -1,4 +1,4 @@
-# Excel Sales Dashboard
+# retail Sales Dashboard
 Interactive sales dashboard created in Excel using:
 
 - Pivot Tables
