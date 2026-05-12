@@ -20,3 +20,4 @@ Dataset includes:
 - Regional sales
 
 - Customer insights
+This project analyzes retail sales performance across different regions, products, and years using an interactive Excel dashboard.
